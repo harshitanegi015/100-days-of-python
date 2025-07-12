@@ -11,6 +11,8 @@ This repo is my personal journey through **100 Days of Code: Python Bootcamp** b
 |-----|----------------------------|----------------------------------|
 | 01  | Band Name Generator 🎸     | [Go to Folder](./Day01_BandNameGenerator) |
 | 02  | Tip Calculator 💰          | [Go to Folder](./Day02_TipCalculator)     |
+| 03  | Pizza Order Program 🍕     | [Go to Folder](./Day03_PizzaOrder)         |
+
 
 ---
 
