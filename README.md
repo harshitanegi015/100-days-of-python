@@ -1,7 +1,7 @@
-# 🌸 100 Days of Python with Angela Yu 🌸
+# 🌸 100 Days of Python 🌸
 
 Hi! I’m Harshita, a BTech CSE student learning Python step-by-step.  
-This repo is my personal journey through **100 Days of Code: Python Bootcamp** by Dr. Angela Yu 💻💕
+This repo is my personal journey of learning Python💻💕
 
 ---
 
