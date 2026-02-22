@@ -8,6 +8,6 @@ This fun Python project creates a band name from your city and pet's name!
 - String joining
 - Python syntax 💻
 
-✨ First Python mini project from 100 Days of Code with Angela Yu.
+✨ First Python mini project from 100 Days of Code
 
 📁 [Back to Main Repo](../)
