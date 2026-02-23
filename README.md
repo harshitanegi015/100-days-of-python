@@ -13,6 +13,7 @@ This repo is my personal journey of learning Python💻💕
 | 02  | Tip Calculator 💰          | [Go to Folder](./Day02_TipCalculator)     |
 | 03  | Pizza Order Program 🍕     | [Go to Folder](./Day03_PizzaOrder)        |
 | 03.1 | Treasure Island 🏝️ | [Go to Folder](./Day03_TreasureIsland)           |
+| 04  | Rock Paper Scissors 🎮 | [Go to Folder](./Day04_RockPaperScissors)     |
 
 
 ---
