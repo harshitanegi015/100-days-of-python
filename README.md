@@ -14,6 +14,7 @@ This repo is my personal journey of learning Python💻💕
 | 03  | Pizza Order Program 🍕     | [Go to Folder](./Day03_PizzaOrder)        |
 | 03.1 | Treasure Island 🏝️ | [Go to Folder](./Day03_TreasureIsland)           |
 | 04  | Rock Paper Scissors 🎮 | [Go to Folder](./Day04_RockPaperScissors)     |
+| 05  | Password Generator 🔒 | [Go to Folder](./Day05_PasswordGenerator)      |
 
 
 ---
